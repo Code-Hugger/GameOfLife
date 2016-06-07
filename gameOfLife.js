@@ -32,9 +32,9 @@ function init(){
 
 	// Call an initialization function to set the initial pixels on the canvas
 	//initBlinker();
-	//initRandom();
+	initRandom();
 	//initGossiperGun();
-	initGossiperArray();
+	//initGossiperArray();
 	updateCanvas();
 }
 
